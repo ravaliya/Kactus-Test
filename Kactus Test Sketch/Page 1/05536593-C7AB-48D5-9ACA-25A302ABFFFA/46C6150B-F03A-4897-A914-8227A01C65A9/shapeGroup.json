@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "8024E460-0FE8-4DF0-9F08-49EA7F5E8F47",
+  "do_objectID": "46C6150B-F03A-4897-A914-8227A01C65A9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 38,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "height": 299,
+    "width": 326,
+    "x": 22,
+    "y": 67
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,11 +29,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "C248AA60-C1AE-440B-B073-E1756B0271FA"
+      "id": "6EFCD412-FAE1-4303-9E4E-44C13158186F"
     }
   ],
-  "name": "Status Bar",
-  "nameIsFixed": true,
+  "name": "Rectangle",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.392156862745098,
-          "green": 0.796078431372549,
-          "red": 0.5843137254901961
+          "blue": 0.1372549019607843,
+          "green": 0.2549019607843137,
+          "red": 0.9372549019607843
         },
         "fillType": 0,
         "isEnabled": true,
